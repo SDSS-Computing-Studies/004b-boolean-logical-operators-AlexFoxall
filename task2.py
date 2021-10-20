@@ -31,3 +31,10 @@ Enter a number: 8
 Enter a number: 64
 64 is both a perfect square and a perfect cube.
 """
+import math
+num = input("enter a number.")
+num = int(num)
+num2 = num **(1/3)
+num3 = num **(1/2)
+if num4 == float
+    print 
