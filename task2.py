@@ -33,8 +33,8 @@ Enter a number: 64
 """
 import math
 num = input("enter a number.")
-num = int(num)
-num2 = num **(1/3)
-num3 = num **(1/2)
-if num4 == float
-    print 
+num = float(num)
+num2 = num ** (1/3)
+num3 = num ** (1/2)
+x = round(num2)
+print(x)

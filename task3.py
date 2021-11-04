@@ -24,3 +24,7 @@ Enter a number: 5
 Enter a number: 4.0
 4.0 is a positive integer
 """
+import math
+x = input("enter a number")
+x = int(x)
+            
